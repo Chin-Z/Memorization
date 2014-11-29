@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memorization</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_word">Loading</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="load_word_success">Load Success</string>
+
+    <string-array name="drawer_item_name">
+        <item>Word</item>
+        <item>Note</item>
+    </string-array>
+
+    <string-array name="view_pager_indicator_name">
+        <item>Study</item>
+        <item>Review</item>
+    </string-array>
+</resources>
